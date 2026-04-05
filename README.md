@@ -70,7 +70,7 @@ prompt:- "You are a data analyst and visualization expert. I have a dataset (wit
 7. Ensure the dashboard is suitable for decision-making and easy to understand. Output:
 * Provide the dashboard structure (sections and components).
 * Include the code for implementation (preferably using Streamlit / Dash / Power BI / Tableau).
-Clearly explain each visualization and its purpose. Dataset: [Paste your dataset here]"
+Clearly explain each visualization and its purpose."
 
 ---
 
