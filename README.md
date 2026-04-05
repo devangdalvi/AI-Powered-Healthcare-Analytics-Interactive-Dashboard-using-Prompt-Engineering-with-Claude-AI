@@ -17,6 +17,24 @@ The first prompt focuses on extracting insights from the dataset:
 - Detects high-risk patient groups  
 - Analyzes billing trends and cost patterns  
 - Evaluates admission patterns  
+PROMPT:- "You are an expert data analyst specializing in healthcare analytics.
+I will provide you with a healthcare dataset. Your task is to perform an in-depth analysis and extract meaningful insights.
+Analyze the dataset and identify the following:
+- Top medical conditions
+- High-risk patient groups based on relevant factors
+- Billing trends and cost patterns
+- Admission patterns (e.g., emergency vs routine)
+- Distribution of test results (Normal, Abnormal, Inconclusive)
+Requirements:
+- Focus on extracting meaningful insights and patterns
+- Highlight key observations clearly
+- Support insights with appropriate visualizations (charts/graphs)
+Important:
+- Do NOT include basic statistical summary (such as mean, count, etc.)
+- Focus only on insights, patterns, and business/healthcare implications
+Output:
+- Key insights
+- Actionable recommendations based on the analysis"
 
 
 👉 Output:
@@ -36,7 +54,23 @@ The second prompt focuses on visualization and dashboard creation:
 👉 Output:
 - Interactive dashboard  
 - Visualization components  
-- Ready-to-use code  
+- Ready-to-use code
+
+prompt:- "You are a data analyst and visualization expert. I have a dataset (with summaries included). Your task is to generate a complete and interactive dashboard based on this data. Instructions:
+1. Analyze the dataset and understand its structure (columns, data types, and relationships).
+2. Create meaningful visualizations such as:
+   * Bar charts
+   * Pie charts
+   * Line graphs
+   * Word clouds (if text data is present)
+3. Highlight key insights, trends, and patterns in the data.
+4. If the dataset includes text and summaries, use them to extract key themes and visualize them.
+5. Design a clean, user-friendly dashboard layout with proper titles, labels, and sections.
+6. Include filters (e.g., by category, sentiment, or keywords) if applicable.
+7. Ensure the dashboard is suitable for decision-making and easy to understand. Output:
+* Provide the dashboard structure (sections and components).
+* Include the code for implementation (preferably using Streamlit / Dash / Power BI / Tableau).
+Clearly explain each visualization and its purpose. Dataset: [Paste your dataset here]"
 
 ---
 
