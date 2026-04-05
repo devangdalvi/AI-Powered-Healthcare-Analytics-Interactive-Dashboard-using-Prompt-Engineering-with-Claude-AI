@@ -59,7 +59,7 @@ The second prompt focuses on visualization and dashboard creation:
 - Ready-to-use code
 
 
-prompt:- "You are a data analyst and visualization expert. I have a dataset (with summaries included). Your task is to generate a complete and interactive dashboard based on this data. Instructions:
+PROMPT:- "You are a data analyst and visualization expert. I have a dataset (with summaries included). Your task is to generate a complete and interactive dashboard based on this data. Instructions:
 1. Analyze the dataset and understand its structure (columns, data types, and relationships).
 2. Create meaningful visualizations such as:
    * Bar charts
