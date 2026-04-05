@@ -17,7 +17,8 @@ The first prompt focuses on extracting insights from the dataset:
 - Detects high-risk patient groups  
 - Analyzes billing trends and cost patterns  
 - Evaluates admission patterns  
-- Examines test result distribution  
+- Examines test result distribution  <img width="1916" height="860" alt="3i" src="https://github.com/user-attachments/assets/9c030e48-200d-42a3-bdb3-fdc06358aaed" />
+
 
 👉 Output:
 - Key insights  
@@ -86,3 +87,5 @@ This project focuses on **insight generation and visualization**, avoiding basic
 ---
 <img width="1919" height="873" alt="1i" src="https://gith<img width="1912" height="876" alt="2i" src="https://github.com/user-attachments/assets/aeed84d7-fb78-417d-9c05-d2a2b30929c2" />
 ub.com/user-attachments/assets/a13268ce-5731-4392-92b8-82720b876296" />
+<img width="1911" height="873" alt="4i" src="https://github.com/user-at<img width="1914" height="873" alt="5i" src="https://github.com/user-attachments/assets/57788326-b0ae-4cf7-93ce-12b3774a9bd0" />
+tachments/assets/12ffa70b-f40f-467b-b3f8-21f0e97380f5" />
