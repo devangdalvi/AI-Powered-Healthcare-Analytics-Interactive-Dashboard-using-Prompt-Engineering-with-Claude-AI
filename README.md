@@ -16,7 +16,9 @@ The first prompt focuses on extracting insights from the dataset:
 - Identifies top medical conditions  
 - Detects high-risk patient groups  
 - Analyzes billing trends and cost patterns  
-- Evaluates admission patterns  
+- Evaluates admission patterns
+
+
 PROMPT:- "You are an expert data analyst specializing in healthcare analytics.
 I will provide you with a healthcare dataset. Your task is to perform an in-depth analysis and extract meaningful insights.
 Analyze the dataset and identify the following:
@@ -55,6 +57,7 @@ The second prompt focuses on visualization and dashboard creation:
 - Interactive dashboard  
 - Visualization components  
 - Ready-to-use code
+
 
 prompt:- "You are a data analyst and visualization expert. I have a dataset (with summaries included). Your task is to generate a complete and interactive dashboard based on this data. Instructions:
 1. Analyze the dataset and understand its structure (columns, data types, and relationships).
