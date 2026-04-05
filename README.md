@@ -84,6 +84,11 @@ A modern development approach where developers guide AI tools using prompts to r
 This project focuses on **insight generation and visualization**, avoiding basic statistical summaries to emphasize real-world decision-making.
 
 ---
-<img width="1919" height="873" alt="1i" src="https://gith<img width="1912" height="876" alt="2i" src="https://github.com/user-attachments/assets/aeed84d7-fb78-417d-9c05-d2a2b30929c2" />
-ub.com/user-attachments/assets/a13268ce-5731-4392-92b8-82720b876296" />
-- Examines test result distribution  <img width="1916" height="860" alt="3i" src="https://github.com/user-attachments/assets/9c030e48-200d-42a3-bdb3-fdc06358aaed" />
+<img width="1919" height="873" alt="1i" src="https://github.com/user-attachments/assets/78dd4d11-0be1-4e59-8815-3e6b91d54c6c" />
+
+<img width="1912" height="876" alt="2i" src="https://github.com/user-attachments/assets/78491de3-67a7-42ec-be34-ae3ba64755e9" />
+
+<img width="1916" height="860" alt="3i" src="https://github.com/user-attachments/assets/eb357515-d780-4d49-a120-781227db258c" />
+
+<img width="1911" height="873" alt="4i" src="https://github.com/user-attachments/assets/c5![Uploading 5i.png…]() 971d5b-e490-404e-a976-2608b49158c2" />
+
