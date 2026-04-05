@@ -84,3 +84,5 @@ A modern development approach where developers guide AI tools using prompts to r
 This project focuses on **insight generation and visualization**, avoiding basic statistical summaries to emphasize real-world decision-making.
 
 ---
+<img width="1919" height="873" alt="1i" src="https://gith<img width="1912" height="876" alt="2i" src="https://github.com/user-attachments/assets/aeed84d7-fb78-417d-9c05-d2a2b30929c2" />
+ub.com/user-attachments/assets/a13268ce-5731-4392-92b8-82720b876296" />
