@@ -90,5 +90,6 @@ This project focuses on **insight generation and visualization**, avoiding basic
 
 <img width="1916" height="860" alt="3i" src="https://github.com/user-attachments/assets/eb357515-d780-4d49-a120-781227db258c" />
 
-<img width="1911" height="873" alt="4i" src="https://github.com/user-attachments/assets/c5![Uploading 5i.png…]() 971d5b-e490-404e-a976-2608b49158c2" />
+<img width="1911" height="873" alt="4i" src="https://github.com/user-attachments/assets/19aaf5f6-b24d-4e18-a140-111136778b45" />
 
+<img width="1914" height="873" alt="5i" src="https://github.com/user-attachments/assets/d6e69ff3-d47e-46b2-a27b-b205c9444f66" />
