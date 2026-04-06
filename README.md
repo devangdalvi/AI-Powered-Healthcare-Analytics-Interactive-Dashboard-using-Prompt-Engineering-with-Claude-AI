@@ -120,6 +120,8 @@ A modern development approach where developers guide AI tools using prompts to r
 ## 📎 Note
 This project focuses on **insight generation and visualization**, avoiding basic statistical summaries to emphasize real-world decision-making.
 
+DEMO VIDEO:- https://www.linkedin.com/posts/devang-dalvi-a12791206_healthcareanalytics-ai-vibecoding-activity-7441032908506570752-JHi3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRw2W4BAFY3u1veY5DeOxHVC2T2uA9b3Ms
+
 ---
 <img width="1919" height="873" alt="1i" src="https://github.com/user-attachments/assets/78dd4d11-0be1-4e59-8815-3e6b91d54c6c" />
 
